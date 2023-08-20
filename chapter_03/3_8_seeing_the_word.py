@@ -19,7 +19,6 @@ print(sorted(locations,reverse=True))
 print("\nOriginal order:")
 print(locations)
 
-
 #reverse the order of the list and print
 print("\nReversed:")
 locations.reverse()
