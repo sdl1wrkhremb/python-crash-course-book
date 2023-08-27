@@ -31,3 +31,8 @@ admin2 = Admin('james', 'smith', 'admin2',
                'admin2@company.com', '999-888-7777')
 
 admin2.privileges.show_privileges()
+
+print("\nDiagnostics:")
+print(admin1)
+print(admin1.privileges)
+print(admin1.privileges.privileges)
